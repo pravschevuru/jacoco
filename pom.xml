@@ -12,9 +12,9 @@
     <properties>
         <!-- https://maven.apache.org/general.html#encoding-warning -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-            <!-- <sonar.host.url>http://172.31.3.176:9000/</sonar.host.url>
+             <sonar.host.url>http://172.31.3.176:9000/</sonar.host.url>
                 <sonar.login>00200506b2fe18480e14508c33c0a58ecdc5407c</sonar.login>
-               <sonar.password>admin</sonar.password> -->
+              <!-- <sonar.password>admin</sonar.password> -->
 
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
