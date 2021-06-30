@@ -14,7 +14,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <maven.compiler.release>11</maven.compiler.release>
    <sonar.login>00200506b2fe18480e14508c33c0a58ecdc5407c</sonar.login>
-    <sonar.host.url>http://172.31.47.218:9000/</sonar.host.url> 
+    <sonar.host.url>http://13.126.37.145:9000/</sonar.host.url> 
         </properties>
   
          <dependencies>
